@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ✅ Checklist Deploy - Token Investment dApp
 
 ## 📋 Prima di iniziare
@@ -100,3 +101,6 @@ Se tutto funziona:
 - [ ] Condividi l'URL del frontend
 - [ ] Il backend è sempre attivo su Render
 - [ ] Puoi continuare a sviluppare e fare push automatico 
+=======
+# token-invest-dapp
+>>>>>>> de383950e5d55c26bb154ade44690e2561085117
